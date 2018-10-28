@@ -1,7 +1,31 @@
 # Recursos-ios
 Recursos on-line per al desenvolupament de l'aplicació MyPlaces
+### Herramientas UOC
+
+* Campus UOC (Universitat Oberta de Catalunya): [Campus](http://www.uoc.edu/portal/ca/index.html)
+* Wiki UOC : [Wiki](http://cv.uoc.edu/webapps/xwiki/wiki/matm0661es/login/XWiki/XWikiLogin?srid=fdoAt9DJ&xredirect=%2Fwebapps%2Fxwiki%2Fwiki%2Fmatm0661es%2Fview%2FMain%2FWebHome%3Fsrid%3DfdoAt9DJ)
+* Trello: software de administración de proyectos con interfaz web, cliente para iOS y para organizar proyectos: [Trello](https://trello.com)
+* Slack: collaboration hub that brings the people together with all information and tools to get work done: [Slack](https://slack.com/)
+* Vídeos pel curs Desenvolupament d’aplicacions per a dispositius iOS: [Videos](https://almata.github.io/SOCiOS/)
+### Events
+
+* Eventbrite: Discover great events about swift and iOS: [Link](https://www.eventbrite.com/)
+
+### Markdown
+
+* Markdown Syntax Documentation:[Link](https://daringfireball.net/projects/markdown/syntax)
+* Online Markdown Editor:[Link](https://dillinger.io/)
+* Markdown Guide:[Link](https://www.markdownguide.org/getting-started)
 
 
+### Tutorials and OnlineCourses
+* How To Make Dynamic ScrollView - Swift: [Video](https://www.youtube.com/watch?v=szqBQ6lNilI)
+* Create a UIScrollView using Auto Layout in Storyboard: [Video](https://www.youtube.com/watch?v=nfHBCQ3c4Mg)
+*
+
+
+
+### News, Newsletters & Podcast
 
 ### ⏱ Control de versiones (Git)
 

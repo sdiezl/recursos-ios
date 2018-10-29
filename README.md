@@ -13,6 +13,7 @@ Recursos on-line per al desenvolupament de l'aplicació MyPlaces
 * The best iOS development links every week by Dave Verwer:  https://iosdevweekly.com
 * Videos de NSSpain: https://vimeo.com/nsspain/videos 
 * Interesting Ns group meetup in Barcelona: https://www.meetup.com/es-ES/nsbarcelona/
+* (He añadido estas 4 últimas lineas y parte del título de esta sección.. las he modificado directamente por error, te lo paso ahora así para que lo puedas editar si quieres) :-)
 
 
 ### Markdown

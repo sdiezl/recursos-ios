@@ -7,9 +7,13 @@ Recursos on-line per al desenvolupament de l'aplicació MyPlaces
 * Trello: software de administración de proyectos con interfaz web, cliente para iOS y para organizar proyectos: [Trello](https://trello.com)
 * Slack: collaboration hub that brings the people together with all information and tools to get work done: [Slack](https://slack.com/)
 * Vídeos pel curs Desenvolupament d’aplicacions per a dispositius iOS: [Videos](https://almata.github.io/SOCiOS/)
-### Events
+### Events & Community
 
 * Eventbrite: Discover great events about swift and iOS: [Link](https://www.eventbrite.com/)
+* The best iOS development links every week by Dave Verwer:  https://iosdevweekly.com
+* Videos de NSSpain: https://vimeo.com/nsspain/videos 
+* Interesting Ns group meetup in Barcelona: https://www.meetup.com/es-ES/nsbarcelona/
+
 
 ### Markdown
 
